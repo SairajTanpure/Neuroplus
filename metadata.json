@@ -1,0 +1,6 @@
+{
+  "name": "NeuroPulse — AI Learning Co-Pilot",
+  "description": "Adaptive student analytics platform with Cognitive Debt Engine, Root-Cause Detector, and Peer Knowledge Broker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
